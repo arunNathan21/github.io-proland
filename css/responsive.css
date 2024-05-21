@@ -15,6 +15,15 @@
     max-width: 1220px;
   }
 }
+@media only screen and (min-width: 320px) and (max-width: 768px) {
+  .pro {
+    display: flex;
+    flex-direction: column;
+  }
+  .pro1 {
+    font-size: 100px;
+  }
+}
 @media (min-width: 992px) {
   .row.g-lg-0 {
     margin-right: 0;
