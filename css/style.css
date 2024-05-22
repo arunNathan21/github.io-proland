@@ -6788,7 +6788,7 @@ header .navbar [class*=col-] {
   align-self: stretch;
 }
 header .navbar [class*=col-].text-end {
-  justify-content: flex-end !important;
+  /* justify-content: flex-end !important; */
 }
 header .navbar [class*=col-] .navbar-nav {
   -ms-flex-item-align: stretch;
