@@ -23,6 +23,9 @@
   .pro1 {
     font-size: 100px;
   }
+  h2.text-dark-gray.text-center.fw-800.ls-minus-3px.m-0 {
+    line-height: 50px;
+} 
 }
 @media (min-width: 992px) {
   .row.g-lg-0 {
